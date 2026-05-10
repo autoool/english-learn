@@ -1,2 +1,20 @@
 https://github.com/aaron-he-zhu/seo-geo-claude-skills 
 https://github.com/zubair-trabzada/geo-seo-claude
+
+https://impeccable.style
+
+impeccable.style 是一个给 AI 编程助手用的“设计增强工具”官网。简单说，它的作用是：
+
+  它不是做普通网页模板的，而是教像 Claude Code、Cursor、Codex 这类 AI 工具“更懂设计”，避免生成那种很像 AI 拼出来的通用
+  界面。官网把它描述成一个 agent skill，核心能力包括：
+
+  - 给 AI 补充设计知识，比如排版、颜色、动效、布局、响应式、UX 文案等
+  - 提供一套设计命令，让你直接对 AI 说怎么改界面
+  - 检测常见“AI 味很重”的设计问题，比如紫色渐变、层层卡片、对比度差、渐变文字等
+  - 支持在代码库里直接工作，不只是出效果图，而是改真实前端代码
+  - 还有可选的 CLI 和 Chrome 插件，用来扫描项目或网页里的设计问题
+
+  更通俗一点说：
+
+  它像是一个“AI 设计教练 + 设计质检工具”。
+  如果你在用 AI 写前端，它的目标是让 AI 生成的页面看起来更专业、更有品牌感，而不是那种千篇一律的 AI 风格。
